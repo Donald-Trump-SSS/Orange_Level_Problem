@@ -35,18 +35,20 @@ A **Python-based GUI application** for analyzing traffic data using **Multiple L
 - **Interactive Table**  
   Add multiple rows of custom traffic data before training the model.
 
-- **Child-Friendly UI**  
+- **User-Friendly UI**  
   Colorful buttons, playful fonts, and easy-to-use layout.
 
 ---
 
 ## ⚡ Technologies Used
 
-- Python 3.x  
+- Python 3.14  
 - Tkinter – GUI interface  
 - NumPy & Pandas – Data handling  
 - Matplotlib – Plotting and visualizations  
-- scikit-learn – Linear Regression & metrics  
+- scikit-learn – Linear Regression & metrics
+- Code editor: VS Code
+- 
 
 ---
 
@@ -54,6 +56,7 @@ A **Python-based GUI application** for analyzing traffic data using **Multiple L
 
 1. **Clone or download** the repository.
 2. Ensure required packages are installed:
+3. Use a code editor like vsc / atom then use it to run the project file
 
    ```bash
    pip install numpy pandas matplotlib scikit-learn

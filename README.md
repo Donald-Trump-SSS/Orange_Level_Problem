@@ -1,4 +1,4 @@
-# 🚦 Traffic Analyser
+# Regression Analysis With Python
 
 A **Python-based GUI application** for analyzing traffic data using **Multiple Linear Regression**. This app allows users to either use **random pre-defined data** or **input custom data** to evaluate traffic patterns and predict traffic flow. It also provides visualizations to assess model performance and residuals.
 

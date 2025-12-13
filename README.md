@@ -40,7 +40,7 @@ A **Python-based GUI application** for analyzing custom csv file data using **Mu
 
 ---
 
-## ⚡ Technologies Used
+## ⚡ Language and Tools Used
 
 - Python 3.14  
 - Tkinter – GUI interface  
@@ -48,7 +48,6 @@ A **Python-based GUI application** for analyzing custom csv file data using **Mu
 - Matplotlib – Plotting and visualizations  
 - scikit-learn – Linear Regression & metrics
 - Code editor: VS Code
-- 
 
 ---
 
